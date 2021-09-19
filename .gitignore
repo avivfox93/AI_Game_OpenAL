@@ -1,0 +1,7 @@
+# Project exclude paths
+/cmake-build-debug/
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/Test.iml
+.idea/vcs.xml
